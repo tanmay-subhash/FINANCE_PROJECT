@@ -1,0 +1,1 @@
+This project aimed at finance is brought about by Data Science and analysis of data retrieved from the internet through web scraping using Python.The prediction and the regression models have been made on the basis of the samme data analysed before. 
